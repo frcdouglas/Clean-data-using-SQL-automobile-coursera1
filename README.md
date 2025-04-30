@@ -89,5 +89,3 @@ Com os dados limpos e analisados, a empresa agora tem base confiável para tomar
 
 *Este projeto faz parte de um estudo aplicado de SQL e análise de dados voltado para o setor automobilístico.*
 
-
-<pre><code sql> ```sql SELECT MIN(length) AS min_length, MAX(length) AS max_length FROM [automobile_data_coursera1].[dbo].[automobile_data]; ``` </code></pre>
