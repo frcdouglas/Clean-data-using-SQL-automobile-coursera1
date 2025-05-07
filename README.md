@@ -108,8 +108,11 @@ Gerando um relatório no PowerBI, podemos ter uma melhor visualização dos dado
 Apesar do modelo Mazda a gás com duas portas e carroceria hatchback ter sido o modelo mais vendido, temos alguns outros insights que podem ajudar na escolhar da melhora do estoque de carros.
 
 > Carros 4 portas possuem uma pequena preferencia quando comparados aos de 2 portas
+
 > Modelos a gás são os mais vendidos quando se fala de tipo de combustivel superando os modelos a diesel. Sendo 90% do carros vendidos com preferencia a gás.
+
 > Com relação ao tipo de carroceria os modelos Sedan superam os Hatchback por cerca de 13%, sendo esses dois a liderar a venda de carros.
+
 > Apesar do modelo da Mazda ser o mais vendido, no geral, os carros da Toyota aparecem como uma preferencia do publico.
 ---
 
