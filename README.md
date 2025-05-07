@@ -21,7 +21,7 @@ Antes de realizar qualquer análise, foi necessário tratar e validar os dados c
 
 Foi realizada uma consulta para verificar se os dados de `fuel_type` estavam de acordo com a descrição da base, que indica apenas dois tipos possíveis.
 
-![Consulta - fuel_type](#)
+![image](https://github.com/user-attachments/assets/ab9947fe-101b-4965-bd73-370add47932d)
 
 ---
 
